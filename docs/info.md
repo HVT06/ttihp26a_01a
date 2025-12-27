@@ -9,11 +9,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is test circuit to test the IHp foundary 
+output
 
 ## How to test
 
-Explain how to use your project
+Just
+Plug
+it in
+the power
+and see the 
+magic
 
 ## External hardware
 
