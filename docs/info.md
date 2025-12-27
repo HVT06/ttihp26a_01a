@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It is test circuit to test the IHp foundary 
+It is test circuit to test the IHP foundary 
 output
 
 ## How to test
